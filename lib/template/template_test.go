@@ -3,7 +3,7 @@ package main
 import "testing"
 
 func TestMain(t *testing.T) {
-	arg := "agument"
+	arg := "argument"
 	exp := "expected"
 	res := "call function with arg"
 	if res != exp {
